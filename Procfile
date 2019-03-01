@@ -1,1 +1,1 @@
-web: gunicorn opniao.wsgi
+web: gunicorn opiniao.wsgi
